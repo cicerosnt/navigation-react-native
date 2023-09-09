@@ -1,6 +1,7 @@
 # Three examples of navigation in React Native: Drawer, Tab, and Stack.
 
 ## Installing the CORE.
+
 ```bash
   npm install @react-navigation/native
 ```
@@ -43,7 +44,16 @@ More detail here -> https://docs.swmansion.com/react-native-reanimated/docs/fund
 ```bash
   npm install @react-navigation/native-stack
 ```
+## You can also download this project and test it by running the following commands
 
+It's necessary to have Git, Node.js, and Expo CLI already installed and configured.
+
+```bash
+  git clone https://github.com/cicerosnt/navigation-react-native.git
+  cd navigation-react-native
+  npm i
+  npx expo start
+```
 
 ## Author
 
